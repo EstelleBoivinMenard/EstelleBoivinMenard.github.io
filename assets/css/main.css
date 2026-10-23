@@ -2795,6 +2795,16 @@ input[type="button"]:disabled,
   margin-bottom: 0;
 }
 
+.cv-viewer {
+  border: solid 2px #e0d2c3;
+  border-radius: 5px;
+  display: block;
+  height: 80vh;
+  margin-bottom: 2.25em;
+  min-height: 600px;
+  width: 100%;
+}
+
 /* Header */
 
 #header {

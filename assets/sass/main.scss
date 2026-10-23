@@ -1147,6 +1147,16 @@
 		}
 	}
 
+	.cv-viewer {
+		border: solid _size(border-width) _palette(border2);
+		border-radius: _size(border-radius);
+		display: block;
+		height: 80vh;
+		margin-bottom: _size(element-margin);
+		min-height: 600px;
+		width: 100%;
+	}
+
 /* Header */
 
 	#header {
